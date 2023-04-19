@@ -1,4 +1,4 @@
-# Spotify Song Data EDA and Clustering
+# Spotify and Youtube Song Data - EDA and Clustering
 This repository contains the code and data for performing exploratory data analysis (EDA) and clustering on a dataset of songs from various artists worldwide.
 
 ![image](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/if_spotify_then_youtube-1024x538.png)
